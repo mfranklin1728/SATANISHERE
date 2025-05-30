@@ -1,0 +1,48 @@
+.button {
+    background-color: black;
+    color: #939393;
+    border: 2px solid #939393;
+    text-decoration: none;
+    padding: 4px 28px;
+    border-radius: 12;
+    font-family: 'Courier New', Courier, monospace;
+}
+.button:hover {
+    background-color: rgb(185, 15, 15);
+    color: black;
+    border: 2px solid rgb(185, 15, 15);
+    text-decoration: none;
+    padding: 4px 28px;
+    border-radius: 12;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    color: #939393;
+    line-height: 1.5;
+}
+#message {
+  font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    color: #939393;
+    line-height: 1.5;
+}
+body {  
+    background-image: url('SM.jpg');
+    background-size: cover;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position-x: -30px;
+    background-position-y: 120px;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 0px;
+    color: #939393;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+    
+}
+
